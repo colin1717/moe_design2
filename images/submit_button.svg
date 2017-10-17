@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="32px" viewBox="0 0 92 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>submit button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-846.000000, -137.000000)">
+            <g id="header" transform="translate(-1.000000, 0.000000)">
+                <g id="submit-button" transform="translate(847.000000, 137.000000)">
+                    <g>
+                        <rect id="Rectangle-3" fill="#3CBBA4" x="0" y="0" width="92" height="32" rx="3"></rect>
+                        <text id="Submit" font-family="Helvetica" font-size="13" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="42" y="21">Submit</tspan>
+                        </text>
+                        <g id="if_email_322441" transform="translate(11.000000, 7.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                            <path d="M0,0 L0,18 L24,18 L24,0 L0,0 Z M12,9.513 L2.652,1.49925 L21.34875,1.49925 L12,9.513 Z M12,11.487 L14.92425,8.9805 L21.5025,16.49775 L2.49525,16.49775 L9.0735,8.9805 L11.99625,11.487 L12,11.487 Z M22.5,15.3615 L16.0635,8.00325 L22.5,2.487 L22.5,15.3615 Z M7.9365,8.004 L1.5,15.3615 L1.5,2.4885 L7.9365,8.004 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
