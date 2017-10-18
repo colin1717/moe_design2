@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="413px" height="143px" viewBox="0 0 413 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>green graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-519.000000, -311.000000)">
+            <g id="Graph" transform="translate(518.000000, 281.000000)">
+                <g id="green-graph" transform="translate(0.000000, 30.000000)">
+                    <path d="M408.613281,121 L408.613281,57.9375 L374.707031,32.4648438 L323.035156,80.421875 L273.449219,7.4296875 L224.992188,69.1757812 L174.636719,52.3867188 L122.699219,69.1757812 L74.2421875,32.4648438 L22,95.3398437 L22,121 L408.613281,121 Z" fill="#CFF2EC" fill-rule="evenodd"></path>
+                    <path d="M274.515982,9 L273.449219,7.4296875 L272.216871,9 L274.515982,9 Z M121,67.888457 L74.2421875,32.4648438 L22,95.3398437 L22,121 L121,121 L121,67.888457 Z" id="Combined-Shape" fill="#D9D9D9" fill-rule="evenodd"></path>
+                    <g id="Graph-Points" stroke-width="1" fill-rule="evenodd" transform="translate(19.000000, 0.000000)">
+                        <circle id="Oval-2" fill="#D9D9D9" cx="4" cy="92" r="4"></circle>
+                        <circle id="Oval-2" fill="#D9D9D9" cx="54" cy="30" r="4"></circle>
+                        <circle id="Oval-2" fill="#D9D9D9" cx="103" cy="65" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="154" cy="50" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="204" cy="65" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="254" cy="4" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="304" cy="79" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="354" cy="29" r="4"></circle>
+                        <circle id="Oval-2" fill="#3CBBA4" cx="388" cy="54" r="4"></circle>
+                    </g>
+                    <polyline id="Path-3-Copy" stroke="#3CBBA4" stroke-width="1" points="122.699219 66.1757812 174.636719 49.3867188 224.992188 66.1757812 273.449219 4.4296875 323.035156 77.421875 374.707031 29.4648438 408.613281 54.9375"></polyline>
+                    <polyline id="Path-3-Copy" stroke="#D9D9D9" stroke-width="1" points="22 92.3398438 22 92.3398438 74.2421875 29.4648438 122.699219 66.1757812"></polyline>
+                    <g id="graph-months" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, 29.000000)" font-size="11" font-family="Helvetica" fill="#979DA5" font-weight="normal">
+                        <text id="Jan">
+                            <tspan x="17" y="111">Jan</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="4" y="93">0</tspan>
+                        </text>
+                        <text id="5">
+                            <tspan x="4" y="68">5</tspan>
+                        </text>
+                        <text id="10">
+                            <tspan x="0" y="40">10</tspan>
+                        </text>
+                        <text id="15">
+                            <tspan x="0" y="10">15</tspan>
+                        </text>
+                        <text id="Feb">
+                            <tspan x="63" y="111">Feb</tspan>
+                        </text>
+                        <text id="Mar">
+                            <tspan x="112" y="111">Mar</tspan>
+                        </text>
+                        <text id="Apr">
+                            <tspan x="165" y="111">Apr</tspan>
+                        </text>
+                        <text id="May">
+                            <tspan x="216" y="111">May</tspan>
+                        </text>
+                        <text id="Jun">
+                            <tspan x="264" y="111">Jun</tspan>
+                        </text>
+                        <text id="Jul">
+                            <tspan x="314" y="111">Jul</tspan>
+                        </text>
+                        <text id="Aug">
+                            <tspan x="360" y="111">Aug</tspan>
+                        </text>
+                        <text id="Sep">
+                            <tspan x="395" y="111">Sep</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
