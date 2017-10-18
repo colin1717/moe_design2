@@ -73,17 +73,12 @@ form {
 }
 
 .file-input {
-  cursor: inherit;
-  display: block;
-  font-size: 999px;
-  filter: alpha(opacity=0);
-  min-height: 100%;
-  min-width: 100%;
+  width: 0.1px;
+  height: 0.1px;
   opacity: 0;
+  overflow: hidden;
   position: absolute;
-  right: 0;
-  text-align: right;
-  top: 0;
+  z-index: -1;
 }
 
 .file-container {
@@ -107,4 +102,68 @@ form {
   border-radius: 3px;
   color: #3CBBA4;
   padding-bottom: 10px;
+}
+
+.data {
+  padding-top: 39px;
+}
+
+.data-rectangle {
+  width: 873px;
+  height: 237px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.data-box {
+  width: 216px;
+  height: 100%;
+  background-color: white;
+}
+
+.data-box-title {
+  font-size: 12pt;
+  margin: 25px 15px 20px 5px;
+  text-align: center;
+}
+
+.circle-graph {
+  height: 115px;
+  width: 115px;
+  background-color: #3CBBA4;
+  border-radius: 58px;
+  margin: auto;
+  padding-top: 4px;
+}
+
+.cicrle-graph-inner {
+  height: 107px;
+  width: 107px;
+  background-color: white;
+  border-radius: 58px;
+  margin: auto;
+}
+
+.circle-graph-value {
+  font-size: 18pt;
+  text-align: center;
+  padding-top: 35px;
+}
+
+.percentage {
+  font-size: 14pt;
+}
+
+.graph-box {
+  width: 433px;
+  height: 100%;
+  background-color: white;
+}
+
+.graph-box-title {
+  width: 130px;
+  font-size: 12pt;
+  text-align: center;
+  margin: 25px 0 0 15px;
 }
